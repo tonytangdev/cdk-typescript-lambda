@@ -88,3 +88,12 @@ cdk-exports-dev.json
 .env
 env.js
 env.ts
+
+# js files in src folder
+src/**/*.js
+
+# js files in lib folder
+lib/**/*.js
+
+# js files in bin folder
+bin/**/*.js
